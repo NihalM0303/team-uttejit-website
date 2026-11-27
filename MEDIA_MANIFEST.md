@@ -50,8 +50,8 @@ Legend — `IG/` = `instagram-fsteamuttejit-2026-11-26-Q1B9dFvM/`, `D3/` = `FSUK
 
 | Web filename | Source file | Description | Ratio | Best fit |
 |---|---|---|---|---|
-| `team-silverstone-garage31.webp` | `IM/55397229429_709286877c_o.jpg` (9450×6300) — duplicate in `FSUK26 media/Formal/` | Official IMechE photo: full team with car and Indian flag outside garage 31 | 3:2 | **About hero**, Home "the team" band |
-| `team-silverstone-cheer.webp` | `IM/55406934203_ac424375ea_o.jpg`, `55406988524_03d4563477_o.jpg` (6048×4032) | Same setting, arms raised / alt pose | 3:2 | About / Sponsorship |
+| `team-silverstone-garage31.webp` | `IM/55406934203_ac424375ea_o.jpg` (6048×4032) | Official IMechE photo: full team with car and Indian flag outside garage 31 | 3:2 | **About hero**, Home "the team" band |
+| `team-silverstone-cheer.webp` | `IM/55406988524_03d4563477_o.jpg` (6048×4032) | Same setting, arms raised / alt pose | 3:2 | About / Sponsorship |
 | `team-garage-32-31.webp` | `IG/media/posts/17936344320321040.jpg` (2688×1792); originals `D3/IMG_5702–5714.HEIC` (5712×4284) | Team in front of garages 32/31 with flag | 3:2 / 4:3 | History FSUK26 card |
 | `team-fi25-night.webp` | `IG/media/posts/17860322751488194.jpg` (1440×810) | Full team group at night, Formula Imperial 2025 | 16:9 | History 2025 card / About |
 | `team-batch-2026-01…10.webp` | `IG` post "Batch of 2026!" (10 × 1080×1350) | Graduating batch portraits/group shots | 4:5 | Leadership archive / About |
@@ -115,3 +115,6 @@ Keizer Wheels, Bhikaram Chandmal, Hoosier, Race Dynamics, Delton Pneumatics, 3 B
 - Instagram story/recruitment/festival-greeting graphics
 
 _Method: HEIC burst sequences were sampled every 4th frame (99 of 396 viewed); sequences are grouped as ranges above._
+
+
+> Correction 2026-11-27: `IM/55397229429_709286877c_o.jpg` is the FS2026 opening-stage photo (crowd + IMechE screen), not the team photo.
