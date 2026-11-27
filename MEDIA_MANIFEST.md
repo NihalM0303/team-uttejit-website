@@ -118,3 +118,18 @@ _Method: HEIC burst sequences were sampled every 4th frame (99 of 396 viewed); s
 
 
 > Correction 2026-11-27: `IM/55397229429_709286877c_o.jpg` is the FS2026 opening-stage photo (crowd + IMechE screen), not the team photo.
+
+## Added 2026-11-27 (round 2 feedback)
+
+| File | Source | Use |
+|---|---|---|
+| `silverstone-tu26-garage.jpg` | `D3/IMG_5848.HEIC` | Car page Silverstone gallery |
+| `silverstone-scrutineering-59.jpg` | `D3/IMG_5827.HEIC` | Car page Silverstone gallery |
+| `silverstone-scrutineering-bay.jpg` | `D3/IMG_5816.HEIC` | Car page Silverstone gallery |
+| `silverstone-crate.jpg` | `D3/IMG_5884.JPG` (GPS overlay cropped out) | Car page Silverstone gallery |
+| `silverstone-opening-stage.jpg` | `IM/55397229429_709286877c_o.jpg` | Car page Silverstone gallery |
+| `silverstone-signage.jpg` | `FSUK26 media/Formal/55396244612_10ee07f933_o.jpg` | Car page Silverstone gallery |
+| `about-tu26-garage-team.jpg` | `D3/IMG_5844.HEIC` | About page gallery |
+| `sponsors/*.png` | Cropped from the team's "Thank You Sponsors" story graphic (low resolution; replace with original logo files when available) | Sponsor logos |
+
+TU26 specs come from `059_DSS_26_Rev_1.xlsx` (FSUK 2026 design spec sheet). Vehicle mass is blank in that sheet, so weight is not shown.
