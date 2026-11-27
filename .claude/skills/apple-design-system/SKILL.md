@@ -57,5 +57,9 @@ Hero headlines are 2–5 words. Never wrap a paragraph over an image.
 - Missing media uses a labelled placeholder frame: `[16:9 — filename]`.
 - Leadership details stay as placeholders until the team supplies them.
 
-## 7. Breakpoints
+## 7. Copy tone
+- Plain and factual. No hype words (revolutionary, challenger, unleash, backed by industry, etc.) and no slogans beyond the team's own tagline “Dream. Build. Revolutionize.”
+- State what the team did, with dates and results. Short sentences. No exclamation marks.
+
+## 8. Breakpoints
 Check every page at 1440px (desktop), 834px (tablet) and 390px (mobile) before review.
