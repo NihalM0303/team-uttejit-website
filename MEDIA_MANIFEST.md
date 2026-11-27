@@ -145,3 +145,9 @@ All 4:5, 1600x2000. Pruthav's two FSUK photos were skipped: one is a car park, t
 
 ## Added 2026-11-27 (History archive gallery)
 `assets/history-archive/archive-01…37.jpg`: 37 older team and car photos (2016 to 2025, before TU26), taken from the Instagram export (posts, archived posts and other media), centre-cropped square, max 1080 px. Ordered by Instagram post date. Graphics, posters and text-heavy posts were excluded.
+
+## Sponsor logos (round 6, 2026-11-27)
+- Official files from each sponsor's own website (via Framer asset import): IPG Automotive, Bender, Lumax, SolidWorks (SVG); Kohesi Bond, Rapid Harness (PNG).
+- Vector-traced from the team's sponsor graphic / sponsor site images: `assets/sponsors/ansys.svg`, `frk.svg`, `global.svg`, `recom.svg`, `pankaj.svg`; `realis.svg` uses the official path.
+- Still raster crops (no clean source found): Anitha Enterprises, Millcraft, MiCo Gearbox Works.
+- Team logo: `assets/logo-white.svg`, `assets/logo-color.svg` (traced).
