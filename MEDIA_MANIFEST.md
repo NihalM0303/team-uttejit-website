@@ -133,3 +133,12 @@ _Method: HEIC burst sequences were sampled every 4th frame (99 of 396 viewed); s
 | `sponsors/*.png` | Cropped from the team's "Thank You Sponsors" story graphic (low resolution; replace with original logo files when available) | Sponsor logos |
 
 TU26 specs come from `059_DSS_26_Rev_1.xlsx` (FSUK 2026 design spec sheet). Vehicle mass is blank in that sheet, so weight is not shown.
+
+## Added 2026-11-27 (round 4: more FSUK 2026 team photos)
+| Web file | Source | Shows |
+|---|---|---|
+| `assets/silverstone-pitlane-driver.jpg` | `D3/IMG_5738.HEIC` | TU26 with driver on the Silverstone pit lane |
+| `assets/silverstone-garage30.jpg` | `D3/IMG_5746.HEIC` | TU26 in front of garage 30, team behind |
+| `assets/silverstone-pitlane-team.jpg` | `D3/IMG_5770.HEIC` | Team members with TU26 on the pit lane |
+| `assets/silverstone-pitlane-crew.jpg` | `D3/IMG_5722.HEIC` | Team members sitting with TU26 by the garages |
+All 4:5, 1600x2000. Pruthav's two FSUK photos were skipped: one is a car park, the other shows another team's car.
